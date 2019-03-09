@@ -1,0 +1,6 @@
+E:\Project2\Inventory\Inventory.Common\bin\Debug\Inventory.Common.dll
+E:\Project2\Inventory\Inventory.Common\bin\Debug\Inventory.Common.pdb
+E:\Project2\Inventory\Inventory.Common\obj\Debug\Inventory.Common.csproj.CoreCompileInputs.cache
+E:\Project2\Inventory\Inventory.Common\obj\Debug\Inventory.Common.dll
+E:\Project2\Inventory\Inventory.Common\obj\Debug\Inventory.Common.pdb
+E:\Project2\Inventory\Inventory.Common\obj\Debug\Inventory.Common.csprojAssemblyReference.cache

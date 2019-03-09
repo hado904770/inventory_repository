@@ -1,0 +1,14 @@
+E:\Project2\Inventory\Inventory.Model\bin\Debug\Inventory.Model.dll.config
+E:\Project2\Inventory\Inventory.Model\bin\Debug\Inventory.Model.dll
+E:\Project2\Inventory\Inventory.Model\bin\Debug\Inventory.Model.pdb
+E:\Project2\Inventory\Inventory.Model\bin\Debug\EntityFramework.dll
+E:\Project2\Inventory\Inventory.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project2\Inventory\Inventory.Model\bin\Debug\Inventory.Common.dll
+E:\Project2\Inventory\Inventory.Model\bin\Debug\Inventory.Common.pdb
+E:\Project2\Inventory\Inventory.Model\bin\Debug\EntityFramework.xml
+E:\Project2\Inventory\Inventory.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project2\Inventory\Inventory.Model\obj\Debug\Inventory.Model.csprojAssemblyReference.cache
+E:\Project2\Inventory\Inventory.Model\obj\Debug\Inventory.Model.csproj.CoreCompileInputs.cache
+E:\Project2\Inventory\Inventory.Model\obj\Debug\Inventory.Model.csproj.CopyComplete
+E:\Project2\Inventory\Inventory.Model\obj\Debug\Inventory.Model.dll
+E:\Project2\Inventory\Inventory.Model\obj\Debug\Inventory.Model.pdb
